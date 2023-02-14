@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/INSAID_fictional_business_web/static/css/main.763d5115.css",
+    "main.js": "/INSAID_fictional_business_web/static/js/main.549027e7.js",
+    "static/media/insurance_service.jpg": "/INSAID_fictional_business_web/static/media/insurance_service.c6ee6b3ddd275c1fcdf1.jpg",
+    "static/media/loan_service.jpg": "/INSAID_fictional_business_web/static/media/loan_service.acde6e28312f911f73e4.jpg",
+    "static/media/advisory_service.jpg": "/INSAID_fictional_business_web/static/media/advisory_service.75748c17355ce1dcc1bf.jpg",
+    "static/media/bank_service.jpg": "/INSAID_fictional_business_web/static/media/bank_service.ceadd63b50ef04ef2f5b.jpg",
+    "static/media/stock_service.jpg": "/INSAID_fictional_business_web/static/media/stock_service.a46ed427ce0a45912dc8.jpg",
+    "static/media/wealth_management_service.jpg": "/INSAID_fictional_business_web/static/media/wealth_management_service.d31f068d025621217a3d.jpg",
+    "index.html": "/INSAID_fictional_business_web/index.html",
+    "main.763d5115.css.map": "/INSAID_fictional_business_web/static/css/main.763d5115.css.map",
+    "main.549027e7.js.map": "/INSAID_fictional_business_web/static/js/main.549027e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763d5115.css",
+    "static/js/main.549027e7.js"
+  ]
+}
