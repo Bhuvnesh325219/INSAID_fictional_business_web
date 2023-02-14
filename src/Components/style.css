@@ -1,0 +1,145 @@
+.home{
+}
+
+.home_header{
+/*border: 1px solid black;*/
+overflow: hidden;
+background-color: #f1f1f1;
+padding: 20px;
+position: fixed; 
+top: 0; 
+width: 100%; 
+}
+
+.home_header_logo{
+ /* border: 1px solid blue;*/
+  float: left;
+}
+
+.home_header_another{
+ /* border: 1px solid blue;*/
+  float: right;
+  
+}
+
+.home_header_same_another{
+ /* border: 1px solid red;*/
+  float: right;
+  margin-right: 50px;
+  
+ 
+}
+
+.home_main{
+ /* border: 1px solid black;*/
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.home_main_heading{
+ /* border: 1px solid blue;*/
+  text-align: center;
+  padding: 5px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(72, 67, 67);
+  
+}
+
+
+.home_main_shortdes{
+ /* border: 1px solid blue;*/
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  
+}
+
+.home_main_services_heading{
+ /* border: 1px solid blue;*/
+  text-align: center;
+  padding: 10px;
+ 
+}
+
+.home_main_services{
+  /*border: 1px solid blue;*/
+  text-align: center;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.home_main_service{
+ /* border: 1px solid red;*/
+  text-align: center;
+  width: 30%;
+ 
+
+  margin: 0 auto;
+  
+
+}
+
+.service_heading{
+
+}
+
+.service_description1{
+  background-image: url("bank_service.jpg");
+  
+}
+
+.service_description2{
+  background-image: url("loan_service.jpg");
+}
+
+.service_description3{
+  background-image: url("insurance_service.jpg");
+  
+}
+
+.service_description4{
+  background-image: url("stock_service.jpg");
+}
+
+.service_description5{
+  background-image: url("advisory_service.jpg");
+  
+}
+
+.service_description6{
+  background-image: url("wealth_management_service.jpg");
+}
+
+
+.home_footer{
+  /*border: 1px solid black;*/
+  padding: 20px;
+  margin-top: 10px;
+  text-align: center;
+  background-color: rgb(59, 57, 57);
+
+}
+
+
+
+.about_class{
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 8%;
+    border-radius: 5px;
+    background-color: #ede7e7;
+}
+
+.contact_class{
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 8%;
+    border-radius: 5px;
+    background-color: #ede7e7;
+}
+
+
